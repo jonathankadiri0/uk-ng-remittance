@@ -1,0 +1,7 @@
+run_utc,date_collected_utc,amount_gbp,provider,provider_alias,provider_type,fee_gbp,rate_offered,mid_market_rate,fx_markup_pct,received_ngn,total_cost_pct
+2026-11-05T19:16:17Z,2026-11-05T06:10:36.617632Z,120,Xoom,xoom,moneyTransferProvider,1.09,1801.8518696073,1851.99,2.73089171,214258.21,3.591
+2026-11-05T19:16:17Z,2026-11-05T18:21:19.062701Z,120,Western Union,western-union,moneyTransferProvider,1.99,1801.314664045,1851.99,2.7598916,212573.14,4.349
+2026-11-05T19:16:17Z,2026-11-05T19:16:17Z,120,Wise,wise,moneyTransferProvider,1.27,1851.99,1851.99,0.0,219886.77,1.058
+2026-11-05T19:16:17Z,2026-11-05T06:10:36.617632Z,300,Xoom,xoom,moneyTransferProvider,1.49,1801.8518696073,1851.99,2.73089171,537870.8,3.19
+2026-11-05T19:16:17Z,2026-11-05T18:21:19.062701Z,300,Western Union,western-union,moneyTransferProvider,1.99,1801.314664045,1851.99,2.7598916,536809.78,3.381
+2026-11-05T19:16:17Z,2026-11-05T19:16:18Z,300,Wise,wise,moneyTransferProvider,2.24,1851.99,1851.99,0.0,551448.54,0.747
