@@ -1,0 +1,147 @@
+{
+  "amount": 300.0,
+  "amountType": "SEND",
+  "providerCountry": null,
+  "providerTypes": [
+    "bank",
+    "moneyTransferProvider"
+  ],
+  "providers": [
+    {
+      "quotes": [
+        {
+          "dateCollected": "2026-11-09T18:21:18.855056Z",
+          "deliveryEstimation": {
+            "duration": null,
+            "providerGivesEstimate": true
+          },
+          "fee": 1.99,
+          "isConsideredMidMarketRate": false,
+          "markup": 2.78734847,
+          "rate": 1801.3504328509,
+          "receivedAmount": 536820.44,
+          "sendAmount": null,
+          "sourceCountry": "GB",
+          "targetCountry": "NG"
+        }
+      ],
+      "alias": "western-union",
+      "id": 22,
+      "logos": {
+        "normal": {
+          "svgUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/western-union.svg",
+          "pngUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/western-union.png"
+        },
+        "inverse": {
+          "svgUrl": null,
+          "pngUrl": null
+        },
+        "white": {
+          "svgUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/western-union--white.svg",
+          "pngUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/western-union--white.png"
+        },
+        "circle": {
+          "svgUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/western-union-mark.svg",
+          "pngUrl": null
+        },
+        "altText": "Western Union"
+      },
+      "name": "Western Union",
+      "partner": false,
+      "type": "moneyTransferProvider"
+    },
+    {
+      "quotes": [
+        {
+          "dateCollected": "2026-11-09T19:47:45Z",
+          "deliveryEstimation": {
+            "duration": {
+              "min": "PT1S",
+              "max": "PT1S"
+            },
+            "providerGivesEstimate": true
+          },
+          "fee": 2.24,
+          "isConsideredMidMarketRate": true,
+          "markup": 0.0,
+          "rate": 1854.17,
+          "receivedAmount": 552097.66,
+          "sendAmount": null,
+          "sourceCountry": "GB",
+          "targetCountry": "NG"
+        }
+      ],
+      "alias": "wise",
+      "id": 39,
+      "logos": {
+        "normal": {
+          "svgUrl": "https://wise.com/public-resources/assets/logos/wise-personal/logo.svg",
+          "pngUrl": "https://wise.com/public-resources/assets/logos/wise-personal/logo.png"
+        },
+        "inverse": {
+          "svgUrl": "https://wise.com/public-resources/assets/logos/wise-personal/logo_inverse.svg",
+          "pngUrl": "https://wise.com/public-resources/assets/logos/wise-personal/logo_inverse.png"
+        },
+        "white": {
+          "svgUrl": "https://wise.com/public-resources/assets/logos/wise-personal/logo_white.svg",
+          "pngUrl": "https://wise.com/public-resources/assets/logos/wise-personal/logo_white.png"
+        },
+        "circle": {
+          "svgUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/wise-mark.svg",
+          "pngUrl": null
+        },
+        "altText": "Wise"
+      },
+      "name": "Wise",
+      "partner": false,
+      "type": "moneyTransferProvider"
+    },
+    {
+      "quotes": [
+        {
+          "dateCollected": "2026-11-09T05:52:35.624143Z",
+          "deliveryEstimation": {
+            "duration": null,
+            "providerGivesEstimate": true
+          },
+          "fee": 1.49,
+          "isConsideredMidMarketRate": false,
+          "markup": 2.76059195,
+          "rate": 1801.8462311665,
+          "receivedAmount": 537869.12,
+          "sendAmount": null,
+          "sourceCountry": null,
+          "targetCountry": "NG"
+        }
+      ],
+      "alias": "xoom",
+      "id": 41,
+      "logos": {
+        "normal": {
+          "svgUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/xoom.svg",
+          "pngUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/xoom.png"
+        },
+        "inverse": {
+          "svgUrl": null,
+          "pngUrl": null
+        },
+        "white": {
+          "svgUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/xoom--white.svg",
+          "pngUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/xoom--white.png"
+        },
+        "circle": {
+          "svgUrl": "https://dq8dwmysp7hk1.cloudfront.net/logos/xoom-mark.svg",
+          "pngUrl": null
+        },
+        "altText": "Xoom (A PayPal Service)"
+      },
+      "name": "Xoom",
+      "partner": false,
+      "type": "moneyTransferProvider"
+    }
+  ],
+  "sourceCountry": "GB",
+  "sourceCurrency": "GBP",
+  "targetCountry": "NG",
+  "targetCurrency": "NGN"
+}
